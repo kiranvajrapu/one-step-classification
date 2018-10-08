@@ -1,4 +1,4 @@
-# one-step-classification
+# one step training models
 
 import classification_models as model
 model.get_models_score(X,y)
